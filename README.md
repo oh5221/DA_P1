@@ -2,7 +2,8 @@
 프로그래머스 데이터 분석 3기 프로젝트 1
 
 ### 활용 데이터
-"국내 주요 숙박업소별 정보" 데이터 활용하고 있습니다!
+"국내 주요 숙박업소별 정보" 
+
 https://www.bigdata-culture.kr/bigdata/user/data_market/detail.do?id=354c0cc0-6403-11ee-9c85-79328b353134
 
 ### 주제
